@@ -1,0 +1,10 @@
+{
+	"remoteAccessConsumerKey": "3MVG9QDx8IX8nP5Tq9Y6DosiS4Wqa9fsxsLkK1O5RdQmDbe1ADah_RJLonqcI9RzWOFigYSB5IJoiEjcHEKXB",
+	"oauthRedirectURI": "tm:///mobilesdk/detect/oauth/done",
+	"oauthScopes": ["web", "api"],
+	"isLocal": false,
+	"startPage": "/apex/MerchandiseMobile",
+    "errorPage": "error.html",
+	"shouldAuthenticate": true,
+	"attemptOfflineLoad": false
+}
